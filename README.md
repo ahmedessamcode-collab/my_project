@@ -1,2 +1,2 @@
-# my_project
-new repo
+# Snake Game
+A professional Snake Game
